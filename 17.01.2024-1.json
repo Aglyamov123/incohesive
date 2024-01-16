@@ -1,0 +1,25 @@
+{
+    "name": "David Carter",
+    "age": 98,
+    "address": {
+        "street": "Keith Mountain",
+        "city": "South Timothy",
+        "state": "Arizona",
+        "zip": "14432"
+    },
+    "contact": {
+        "phone": "436-861-6779",
+        "servicePhone": "800620727"
+    },
+    "birthday": "1927-31-10",
+    "ip": "109.43.94.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal easy fly pay war gun form. Attorney art ground section kind. Send officer better should recent doctor.",
+        "bio": "Beat reality available system full. Draw though speech cold never. Fall environmental war alone their ready professor material. Statement toward computer worker."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
