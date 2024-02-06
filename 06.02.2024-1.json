@@ -1,0 +1,25 @@
+{
+    "name": "Tina Watkins",
+    "age": 17,
+    "address": {
+        "street": "Robert Point",
+        "city": "Lake Lindsey",
+        "state": "Utah",
+        "zip": "96366"
+    },
+    "contact": {
+        "phone": "560.594.0766x103",
+        "servicePhone": "800307544"
+    },
+    "birthday": "2008-07-07",
+    "ip": "30.169.130.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee information art not. Choice series exactly write not economic itself. Share account claim interest manage.",
+        "bio": "Then lose score.\nProject involve realize short. Majority year page. Develop particular the may. Leg why I."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
