@@ -1,0 +1,25 @@
+{
+    "name": "Cheyenne Robertson",
+    "age": 100,
+    "address": {
+        "street": "Annette Pike",
+        "city": "Kimberlyton",
+        "state": "Alabama",
+        "zip": "86375"
+    },
+    "contact": {
+        "phone": "827.380.9790x1599",
+        "servicePhone": "800394428"
+    },
+    "birthday": "1925-11-04",
+    "ip": "115.89.54.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Size realize experience lead answer doctor. Never result relate. Up show six attorney marriage west wind.",
+        "bio": "Wind red instead stock likely alone. Benefit drug local speak.\nSeven small interest song prevent senior yeah. Can least human man fill approach there."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
