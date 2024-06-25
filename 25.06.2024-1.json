@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hall",
+    "age": 61,
+    "address": {
+        "street": "Michael Crescent",
+        "city": "Lake Matthewhaven",
+        "state": "Montana",
+        "zip": "90480"
+    },
+    "contact": {
+        "phone": "902.981.1133",
+        "servicePhone": "800421179"
+    },
+    "birthday": "1964-24-05",
+    "ip": "78.2.73.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball bill performance. Carry sing true wife agree society.",
+        "bio": "Share agency computer finish then. Present nation help. Hold common although surface test letter court."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
