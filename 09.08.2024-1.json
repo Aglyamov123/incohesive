@@ -1,0 +1,25 @@
+{
+    "name": "Blake Bentley",
+    "age": 67,
+    "address": {
+        "street": "Brian Shores",
+        "city": "New Tinaburgh",
+        "state": "Pennsylvania",
+        "zip": "19659"
+    },
+    "contact": {
+        "phone": "525-926-5813x02878",
+        "servicePhone": "800647343"
+    },
+    "birthday": "1958-23-08",
+    "ip": "118.238.147.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside base professor better customer summer unit occur. Music cell really along. Person hit goal open.\nPlant happy also memory soon call. Class former international hotel campaign.",
+        "bio": "Trade allow the. Adult require make car kitchen thousand.\nRelate according move program stock. Water brother season camera where him summer.\nBoard if condition mission. Check improve evening cold."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
