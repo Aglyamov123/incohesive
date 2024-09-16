@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Martinez",
+    "age": 32,
+    "address": {
+        "street": "Dawson Extension",
+        "city": "Shelbyview",
+        "state": "Arkansas",
+        "zip": "37726"
+    },
+    "contact": {
+        "phone": "(810)739-4110x23303",
+        "servicePhone": "800486638"
+    },
+    "birthday": "1993-21-08",
+    "ip": "7.218.156.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish through necessary simply. Individual much ten specific continue pay.\nFeeling maybe join moment lay option. Fall story brother.\nList if fact those.\nPolice character team save network war.",
+        "bio": "Article ground candidate. Write or dark society decide more. Those not central individual."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
