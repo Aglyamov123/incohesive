@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Schmidt",
+    "age": 14,
+    "address": {
+        "street": "Diaz Villages",
+        "city": "South Deborah",
+        "state": "New Mexico",
+        "zip": "04494"
+    },
+    "contact": {
+        "phone": "416.583.5231x599",
+        "servicePhone": "800052712"
+    },
+    "birthday": "2011-16-11",
+    "ip": "195.92.117.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea consumer choose grow. Entire such adult many smile.\nCustomer behavior important should meeting buy outside.\nSix region move final those trouble. Follow simply alone statement.",
+        "bio": "Oil material thank third organization including economic. Church high I. Still reason explain stuff nice remember. Improve talk human avoid."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
