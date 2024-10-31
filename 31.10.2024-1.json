@@ -1,0 +1,25 @@
+{
+    "name": "Michael Davis",
+    "age": 33,
+    "address": {
+        "street": "Wright Curve",
+        "city": "Port Tylerland",
+        "state": "Massachusetts",
+        "zip": "07948"
+    },
+    "contact": {
+        "phone": "001-465-363-5981x22572",
+        "servicePhone": "800492179"
+    },
+    "birthday": "1992-12-09",
+    "ip": "211.235.34.109",
+    "foo": "bar",
+    "profile": {
+        "about": "My wall see save. Recognize civil within card country study certain end.\nLeast growth star loss sea south vote weight. Task half happy seek.",
+        "bio": "Again nice hospital campaign drive draw mean. Tree join environment story. Ok church appear increase church miss recognize.\nTo former very decision drop yard party several."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
