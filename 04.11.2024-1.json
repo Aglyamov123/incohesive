@@ -1,0 +1,25 @@
+{
+    "name": "Steven Webb",
+    "age": 94,
+    "address": {
+        "street": "Gomez Curve",
+        "city": "Owentown",
+        "state": "Iowa",
+        "zip": "21400"
+    },
+    "contact": {
+        "phone": "(218)909-8598x632",
+        "servicePhone": "800449487"
+    },
+    "birthday": "1931-15-08",
+    "ip": "217.18.159.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport hospital high president population end. Your consumer again official.\nHigh minute red skill its. Letter case best account middle believe if modern. Pick improve job second society site.",
+        "bio": "Face trade baby practice TV reach pass. Meeting together with hope charge beautiful coach worry. Card just call wonder message child."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
