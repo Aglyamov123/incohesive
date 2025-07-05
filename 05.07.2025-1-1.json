@@ -1,0 +1,25 @@
+{
+    "name": "Erika Richmond",
+    "age": 22,
+    "address": {
+        "street": "Matthew Knolls",
+        "city": "Lake Michelle",
+        "state": "Arizona",
+        "zip": "94410"
+    },
+    "contact": {
+        "phone": "001-822-882-5761x7436",
+        "servicePhone": "800171831"
+    },
+    "birthday": "2003-20-10",
+    "ip": "17.89.252.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit help old much. Discuss the report arm call sea condition. Citizen stage shoulder quality.",
+        "bio": "Hit about whom data similar never born bill. Medical if quite put mission. Attention black color song."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
