@@ -1,0 +1,25 @@
+{
+    "name": "Heather Garcia",
+    "age": 30,
+    "address": {
+        "street": "Jones Ranch",
+        "city": "Taylorhaven",
+        "state": "Pennsylvania",
+        "zip": "63553"
+    },
+    "contact": {
+        "phone": "+1-258-867-2267x265",
+        "servicePhone": "800927002"
+    },
+    "birthday": "1995-13-07",
+    "ip": "18.139.201.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Star traditional song similar near attorney hit.\nTax serious hour clear test number let. Very partner begin information present special Democrat.",
+        "bio": "Teacher form plant production from agent. Over concern field themselves.\nCold down everyone traditional guy rather life. Instead article main firm message."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
