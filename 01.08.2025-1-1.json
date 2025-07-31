@@ -1,0 +1,25 @@
+{
+    "name": "Michele Miller",
+    "age": 63,
+    "address": {
+        "street": "Bradley Flats",
+        "city": "Thomasside",
+        "state": "Michigan",
+        "zip": "40650"
+    },
+    "contact": {
+        "phone": "429.445.5262x6522",
+        "servicePhone": "800397928"
+    },
+    "birthday": "1962-07-09",
+    "ip": "93.216.33.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Must movement assume represent into. Feel both relationship audience successful manage director.",
+        "bio": "Cell ground capital stand since century since. Toward yes edge pretty seek hotel three."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
