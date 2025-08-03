@@ -1,0 +1,25 @@
+{
+    "name": "Jesus Foley",
+    "age": 64,
+    "address": {
+        "street": "Oliver Plain",
+        "city": "West Jessicabury",
+        "state": "Indiana",
+        "zip": "39628"
+    },
+    "contact": {
+        "phone": "6536355566",
+        "servicePhone": "800518231"
+    },
+    "birthday": "1961-23-01",
+    "ip": "18.3.246.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure others executive manage hear. Pull political him produce five speech page. Light huge no. Fine old guy.",
+        "bio": "Similar ok threat wear player green green. Bill process firm generation husband. Meeting hold western participant respond cultural capital.\nGreat reality a choice floor usually help."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
