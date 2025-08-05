@@ -1,0 +1,25 @@
+{
+    "name": "Karen Olson",
+    "age": 40,
+    "address": {
+        "street": "Marshall Brook",
+        "city": "Joshuafort",
+        "state": "Montana",
+        "zip": "22970"
+    },
+    "contact": {
+        "phone": "549-242-2749",
+        "servicePhone": "800037192"
+    },
+    "birthday": "1985-02-11",
+    "ip": "44.40.210.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Thousand case place media consumer to. A history exactly budget.",
+        "bio": "Possible never card ready she spend. Worry employee hundred make.\nSuccess turn indeed station together. Trip house investment term."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
