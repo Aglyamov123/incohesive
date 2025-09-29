@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Lane",
+    "age": 38,
+    "address": {
+        "street": "Salinas Plains",
+        "city": "East Kennethtown",
+        "state": "Washington",
+        "zip": "40655"
+    },
+    "contact": {
+        "phone": "925-268-3757x53068",
+        "servicePhone": "800543822"
+    },
+    "birthday": "1987-02-06",
+    "ip": "78.169.66.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost with skin so. White thousand this group happy work past.\nPerformance later call person. Push concern eat sing home.\nSee police change. Report say forget produce without.",
+        "bio": "Fight second production. Marriage bed character forward order lot everyone.\nLeader health law pick. Board best budget leave various game to describe."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}

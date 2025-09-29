@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Gutierrez",
+    "age": 106,
+    "address": {
+        "street": "Faulkner Light",
+        "city": "West Jacqueline",
+        "state": "Idaho",
+        "zip": "77119"
+    },
+    "contact": {
+        "phone": "(476)381-4898x8535",
+        "servicePhone": "800880513"
+    },
+    "birthday": "1919-06-12",
+    "ip": "137.44.206.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Them team parent add responsibility. Goal trial son successful woman. Write scene scene behind above organization play third.",
+        "bio": "Result try ten key anyone health. Town teacher while great rise nature message. Single return nice. Money charge should government hand send maintain foreign."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
