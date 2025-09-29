@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Lyons",
+    "age": 41,
+    "address": {
+        "street": "Smith Ranch",
+        "city": "West Debra",
+        "state": "Montana",
+        "zip": "36919"
+    },
+    "contact": {
+        "phone": "523-687-2910x3746",
+        "servicePhone": "800167582"
+    },
+    "birthday": "1984-28-10",
+    "ip": "149.159.215.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Health hair walk view do. Main customer yourself surface.",
+        "bio": "Staff college last sign. Guess kitchen like charge.\nLong life kid agency. Bar huge simple able how who fact technology. Realize enjoy property ability crime at traditional."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
