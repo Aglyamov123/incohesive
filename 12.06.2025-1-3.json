@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Clements",
+    "age": 104,
+    "address": {
+        "street": "Tucker Loaf",
+        "city": "Port Kendrafort",
+        "state": "Virginia",
+        "zip": "94971"
+    },
+    "contact": {
+        "phone": "981.435.6237",
+        "servicePhone": "800039367"
+    },
+    "birthday": "1921-01-03",
+    "ip": "55.231.32.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign gas speak idea tonight. Main right question not according capital relate. Government other increase style give throughout.",
+        "bio": "Stand two leg TV.\nRelationship enjoy goal I control drug garden. Early visit if much writer past child. Never rich very capital poor society history."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

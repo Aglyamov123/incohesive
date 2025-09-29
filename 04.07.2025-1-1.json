@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Smith",
+    "age": 28,
+    "address": {
+        "street": "Toni Ports",
+        "city": "New Claudia",
+        "state": "Hawaii",
+        "zip": "98455"
+    },
+    "contact": {
+        "phone": "001-441-934-9271",
+        "servicePhone": "800515596"
+    },
+    "birthday": "1997-05-02",
+    "ip": "22.158.88.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Election Mr senior reduce all or. Argue certainly entire simply smile ago actually eight. Dark soldier interesting hundred last change. Serve truth either free seat here radio.",
+        "bio": "Someone executive contain center. Participant include recognize.\nWestern himself what class. He name behavior ask."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
