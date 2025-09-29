@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Freeman",
+    "age": 67,
+    "address": {
+        "street": "Bradley Mission",
+        "city": "Lake Sean",
+        "state": "Georgia",
+        "zip": "17509"
+    },
+    "contact": {
+        "phone": "+1-962-343-2766x23027",
+        "servicePhone": "800850340"
+    },
+    "birthday": "1958-28-08",
+    "ip": "133.74.248.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine learn cell final heavy increase return. Least position sing probably our grow recent fast. Quite several worry process.",
+        "bio": "Go here television push. Available four talk.\nTrip door who lawyer wonder. Sense away would value carry eye serious. Six mission decide not."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
