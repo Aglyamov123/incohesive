@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Cohen",
+    "age": 12,
+    "address": {
+        "street": "Shannon Station",
+        "city": "Collinsfort",
+        "state": "Oklahoma",
+        "zip": "50382"
+    },
+    "contact": {
+        "phone": "952-412-9482x30776",
+        "servicePhone": "800231084"
+    },
+    "birthday": "2013-21-03",
+    "ip": "128.10.100.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill film own organization yourself.\nThird black old none tree owner form. Management rather staff take share budget. Our laugh force west these.",
+        "bio": "How beyond million wife.\nProduction indicate statement after. Republican discuss tree.\nPhone professional pass data cold call. Not work smile play TV discuss alone."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
