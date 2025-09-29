@@ -1,0 +1,25 @@
+{
+    "name": "Diane Lee",
+    "age": 34,
+    "address": {
+        "street": "Trevor Rapid",
+        "city": "North Joy",
+        "state": "Pennsylvania",
+        "zip": "26125"
+    },
+    "contact": {
+        "phone": "+1-581-560-0351x2546",
+        "servicePhone": "800744375"
+    },
+    "birthday": "1991-30-09",
+    "ip": "15.250.235.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground step knowledge spend compare leg political. At wide prepare none past.",
+        "bio": "Past blood evidence build born decade station rest. Author Republican history hotel.\nTruth size decision herself. Staff most reason amount. Cup business project prove board."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

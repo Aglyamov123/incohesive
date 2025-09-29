@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Aguilar",
+    "age": 80,
+    "address": {
+        "street": "Marquez Shoal",
+        "city": "Danielleton",
+        "state": "Kentucky",
+        "zip": "37269"
+    },
+    "contact": {
+        "phone": "001-974-995-1595x4138",
+        "servicePhone": "800047814"
+    },
+    "birthday": "1945-31-01",
+    "ip": "184.194.147.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion apply well animal describe represent agency. Likely reason Democrat. Result specific none would mean upon finish. Network two true.",
+        "bio": "Finish tell production such establish woman cover. Along material everything consumer whether method really."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
