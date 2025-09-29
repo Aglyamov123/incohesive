@@ -1,0 +1,25 @@
+{
+    "name": "Charles Le",
+    "age": 54,
+    "address": {
+        "street": "Amy Shores",
+        "city": "Amandahaven",
+        "state": "Kentucky",
+        "zip": "89367"
+    },
+    "contact": {
+        "phone": "(527)567-2532x8812",
+        "servicePhone": "800753189"
+    },
+    "birthday": "1971-11-01",
+    "ip": "5.237.33.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Life focus wife machine there special. Throw cut seven ahead all staff.\nToward hear poor important bit. Four or produce daughter.",
+        "bio": "Truth forget remain card garden. Place certainly side line another.\nUnderstand away life himself hold. Page part threat pay heart continue. Person ball reveal especially last create."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
