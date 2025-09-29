@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Hernandez",
+    "age": 43,
+    "address": {
+        "street": "Rodriguez Via",
+        "city": "North Edwinborough",
+        "state": "Mississippi",
+        "zip": "99061"
+    },
+    "contact": {
+        "phone": "(677)736-0212x1518",
+        "servicePhone": "800832960"
+    },
+    "birthday": "1982-27-04",
+    "ip": "20.105.114.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Job above control future south eye necessary. Statement attention stock own. No impact whatever line food degree.\nShake you expect generation identify week south chance. Seat blood different seek.",
+        "bio": "Account court open theory level memory thing. Only difference method member run. History new blood I answer start.\nFeel staff current. Myself score opportunity care sell whether window thus."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

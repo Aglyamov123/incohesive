@@ -1,0 +1,25 @@
+{
+    "name": "Gary Miller",
+    "age": 5,
+    "address": {
+        "street": "Michael Forks",
+        "city": "South Nicolebury",
+        "state": "West Virginia",
+        "zip": "25557"
+    },
+    "contact": {
+        "phone": "797.911.2509x81420",
+        "servicePhone": "800280226"
+    },
+    "birthday": "2020-09-03",
+    "ip": "113.189.40.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom different policy subject a. All price create conference professional weight that development.\nReady far sense lot message compare type. Situation race blue tax wind.",
+        "bio": "Little soldier capital month. Television couple whether deep learn.\nHundred bar guy. Radio line as style above matter its but.\nListen help land career American."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
