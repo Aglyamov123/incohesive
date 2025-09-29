@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Romero",
+    "age": 23,
+    "address": {
+        "street": "Curtis Turnpike",
+        "city": "Johnsonmouth",
+        "state": "Illinois",
+        "zip": "06332"
+    },
+    "contact": {
+        "phone": "547-781-4110x92371",
+        "servicePhone": "800839967"
+    },
+    "birthday": "2002-07-09",
+    "ip": "177.133.98.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Year respond alone candidate. Hope me truth make agency never former.\nSomebody heart require up. Black take again machine suggest prepare rich.\nMan win ten poor.",
+        "bio": "Economic administration teacher picture. Six instead common machine hand. Wonder catch garden after miss discussion year."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

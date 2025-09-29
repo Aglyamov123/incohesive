@@ -1,0 +1,25 @@
+{
+    "name": "Tony Davis",
+    "age": 94,
+    "address": {
+        "street": "Carolyn Divide",
+        "city": "Garciamouth",
+        "state": "Maine",
+        "zip": "26066"
+    },
+    "contact": {
+        "phone": "+1-241-521-8325",
+        "servicePhone": "800021840"
+    },
+    "birthday": "1931-07-11",
+    "ip": "9.155.176.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Section page commercial size step open. Stay mean concern way condition remember stuff. Life center expect particular provide during.\nBetter reflect forget few office. Let then allow two.",
+        "bio": "Director remain simple animal government. Big idea face manage four.\nMorning score size story. Suddenly ever well real yeah agreement. Establish entire last yet cold describe student order."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
