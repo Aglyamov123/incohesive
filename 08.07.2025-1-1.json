@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Russell",
+    "age": 54,
+    "address": {
+        "street": "King Road",
+        "city": "Stoutburgh",
+        "state": "Tennessee",
+        "zip": "55231"
+    },
+    "contact": {
+        "phone": "257-225-1573",
+        "servicePhone": "800745798"
+    },
+    "birthday": "1971-23-08",
+    "ip": "70.252.45.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Million production ball before from help agency. Long gun value increase. Attack away give relate last tonight.\nNight as president television matter but bag. Report yeah range she hour including.",
+        "bio": "Parent girl manage bar take dream. Between development herself mission. Include perhaps indeed tough responsibility mind board would."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
