@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Petersen",
+    "age": 114,
+    "address": {
+        "street": "Owens Club",
+        "city": "Nicholastown",
+        "state": "Maine",
+        "zip": "72198"
+    },
+    "contact": {
+        "phone": "876-207-6593x97076",
+        "servicePhone": "800519353"
+    },
+    "birthday": "1911-08-02",
+    "ip": "96.36.119.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit site onto sure capital. Right sit short. Body suggest race simply human well itself.\nClaim between senior bed. Buy past southern actually become morning. Hit painting rest view various.",
+        "bio": "Red sport effort authority one ability. Black run current career. Great able often participant.\nRock firm different. Stock bag easy election protect need west."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
