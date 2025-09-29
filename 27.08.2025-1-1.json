@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Shaw",
+    "age": 23,
+    "address": {
+        "street": "Quinn Flat",
+        "city": "Edwardside",
+        "state": "Alabama",
+        "zip": "24661"
+    },
+    "contact": {
+        "phone": "491-577-9303",
+        "servicePhone": "800868445"
+    },
+    "birthday": "2002-14-07",
+    "ip": "194.173.43.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun goal painting build term. Surface role rest significant guy note big. Administration price service have today.",
+        "bio": "Already inside certain these message very. Apply young option thought trip eight raise."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Thompson",
+    "age": 33,
+    "address": {
+        "street": "Wilson Village",
+        "city": "North Jessica",
+        "state": "Idaho",
+        "zip": "11222"
+    },
+    "contact": {
+        "phone": "6396924412",
+        "servicePhone": "800470612"
+    },
+    "birthday": "1992-30-06",
+    "ip": "119.124.126.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Cause fact prepare debate relationship beautiful stand fight. Congress yard network sport fine deal window look.",
+        "bio": "Ever compare just sure maybe break. Side answer worker born. Too serve concern thought bill. Church politics generation factor reduce simply back probably."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
