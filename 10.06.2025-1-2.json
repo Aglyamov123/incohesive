@@ -1,0 +1,25 @@
+{
+    "name": "Brian Kennedy",
+    "age": 83,
+    "address": {
+        "street": "Munoz Vista",
+        "city": "West Paul",
+        "state": "South Dakota",
+        "zip": "50894"
+    },
+    "contact": {
+        "phone": "7952450360",
+        "servicePhone": "800871328"
+    },
+    "birthday": "1942-23-05",
+    "ip": "192.114.213.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest happy authority expect. Put use politics run defense.\nMain employee which minute dark keep. Movement charge other last area student.",
+        "bio": "Citizen owner religious them election. Film explain find film listen pick. Compare may remain score. Talk white miss.\nControl moment fast on sure produce."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

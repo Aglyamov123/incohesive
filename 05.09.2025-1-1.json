@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Johnson",
+    "age": 41,
+    "address": {
+        "street": "Timothy Parks",
+        "city": "Angelamouth",
+        "state": "Nebraska",
+        "zip": "10717"
+    },
+    "contact": {
+        "phone": "001-924-485-4548x357",
+        "servicePhone": "800304897"
+    },
+    "birthday": "1984-20-01",
+    "ip": "112.127.44.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile ahead blue. Tonight ever information drive. Candidate police cover. Visit model two recent street six.\nDevelopment adult economic program interview. Final situation rest.",
+        "bio": "Southern main sign. Personal during industry land lot here.\nFrom unit deal vote poor happy leader way.\nChoice peace debate eight nothing matter. Mr fish particular any born control above."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
