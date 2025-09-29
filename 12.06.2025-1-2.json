@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wood",
+    "age": 67,
+    "address": {
+        "street": "Adam Inlet",
+        "city": "Powersstad",
+        "state": "Oregon",
+        "zip": "28578"
+    },
+    "contact": {
+        "phone": "001-893-245-5118x5400",
+        "servicePhone": "800907147"
+    },
+    "birthday": "1958-19-09",
+    "ip": "24.32.117.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide third half use available.\nPlace western during picture. Question customer news of green skill else. Fall by tonight free.",
+        "bio": "Class anything new. Three stand national fall pull economic.\nHappen option under huge stand dark before. Total few political age hundred."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
