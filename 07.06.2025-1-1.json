@@ -1,0 +1,25 @@
+{
+    "name": "David Mullen",
+    "age": 41,
+    "address": {
+        "street": "Franklin Shoals",
+        "city": "West David",
+        "state": "Montana",
+        "zip": "99486"
+    },
+    "contact": {
+        "phone": "9092257773",
+        "servicePhone": "800042072"
+    },
+    "birthday": "1984-03-07",
+    "ip": "33.245.118.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat begin look finish necessary let. Provide more agent voice. News these record actually little investment administration. Difference space western and leader may so adult.",
+        "bio": "Agency along something. Day professional just activity live second. Democrat training interesting son detail."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
