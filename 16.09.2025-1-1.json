@@ -1,0 +1,25 @@
+{
+    "name": "Sean Miller",
+    "age": 51,
+    "address": {
+        "street": "Liu Locks",
+        "city": "Jamesberg",
+        "state": "Alaska",
+        "zip": "02791"
+    },
+    "contact": {
+        "phone": "(782)551-7416x0742",
+        "servicePhone": "800355795"
+    },
+    "birthday": "1974-28-02",
+    "ip": "71.182.13.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Individual charge charge turn hit eight. Go possible first bar teach entire. Why sport hope with method.\nTheir use gas. Impact property company.",
+        "bio": "Onto back memory avoid. Within most same. Clear oil hope what director. Recognize draw during."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}

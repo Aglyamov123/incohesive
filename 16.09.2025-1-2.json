@@ -1,0 +1,25 @@
+{
+    "name": "Mary Evans",
+    "age": 92,
+    "address": {
+        "street": "Desiree Forges",
+        "city": "West Leslie",
+        "state": "Florida",
+        "zip": "44294"
+    },
+    "contact": {
+        "phone": "284-980-1239",
+        "servicePhone": "800010821"
+    },
+    "birthday": "1933-04-07",
+    "ip": "182.164.227.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary material hope professor happen relate. Whose I research at service cover. Too much marriage together glass increase cell. Air one such value note tell issue leave.",
+        "bio": "Health describe middle check everything. Fine wide need represent herself mission. Treat space economy interest central trade."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
