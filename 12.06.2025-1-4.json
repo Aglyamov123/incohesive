@@ -1,0 +1,25 @@
+{
+    "name": "Larry Chambers",
+    "age": 69,
+    "address": {
+        "street": "Harvey Loop",
+        "city": "South Karenland",
+        "state": "New Mexico",
+        "zip": "87866"
+    },
+    "contact": {
+        "phone": "723-212-1924x002",
+        "servicePhone": "800544672"
+    },
+    "birthday": "1956-15-07",
+    "ip": "208.173.103.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Across throughout give or mouth politics.\nExplain street note card up do. Will word image. Story kitchen weight community score increase.",
+        "bio": "Thus weight site discover. Together learn prove political.\nNor leg evening degree story.\nFederal public key. Mention simple price imagine cell author down popular."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Katie Cunningham",
+    "age": 33,
+    "address": {
+        "street": "William Turnpike",
+        "city": "New Margaret",
+        "state": "West Virginia",
+        "zip": "26115"
+    },
+    "contact": {
+        "phone": "001-313-580-8384x7440",
+        "servicePhone": "800028299"
+    },
+    "birthday": "1992-08-01",
+    "ip": "51.166.163.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Person production media morning assume should everything. Human continue during. Quite maybe training middle fly doctor. Her nation society probably design we item.",
+        "bio": "Leg boy mean develop nothing responsibility myself. Ago front north free seem success. Else peace decision they state."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
